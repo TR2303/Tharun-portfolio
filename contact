@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Contact</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <h2>Contact Me</h2>
+  <p>Email: <a href="mailto:tharunram.rs17@gmail.com">tharunram.rs17@gmail.com</a></p>
+  <p>Phone: +91 81110 16906</p>
+  <p>GitHub: <a href="https://github.com/TR2303">github.com/TR2303</a></p>
+  <p>LinkedIn: <a href="https://linkedin.com/in/tharun-ram-r-s-a0936a153">linkedin.com/in/tharun-ram-r-s-a0936a153</a></p>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Projects</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <h2>Projects</h2>
+
+  <div>
+    <h3>JIRA Daily Status Report Automation</h3>
+    <p>Automated test reporting using Python and REST APIs, pulling data from JIRA using test run IDs.</p>
+  </div>
+
+  <div>
+    <h3>Travel Booking App (Angular)</h3>
+    <p>Angular-based travel booking site with MongoDB backend.</p>
+  </div>
+
+  <div>
+    <h3>In-Hospital Mortality Prediction</h3>
+    <p>ML model to predict patient mortality using hospital data.</p>
+  </div>
+</body>
+</html>

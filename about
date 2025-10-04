@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Me</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <h2>About Me</h2>
+  <p>
+    Detail-oriented QA Automation Engineer with 3+ years of experience in Python, Selenium, REST APIs, and cloud-native tools.
+    Passionate about building scalable test solutions and transitioning into data science and AI engineering.
+  </p>
+
+  <h2>Education</h2>
+  <ul>
+    <li>M.Tech Software Engineering – VIT (CGPA: 8.14)</li>
+    <li>Higher Secondary – Bethel Matric School (86%)</li>
+    <li>Secondary School – T Abdul Wahid School (83%)</li>
+  </ul>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Python, Java, SQL, Flask, Pandas</li>
+    <li>Selenium, PyTest, PlayWright, REST API, JIRA</li>
+    <li>Manual & Automation Testing, Web & Mobile Testing</li>
+  </ul>
+</body>
+</html>
